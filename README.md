@@ -1,6 +1,6 @@
 # About
 
-Hey there! I'm Jill Fiore, also known online as Lumaeris. Atomic Linux user, tinkerer, Russian translator, aspiring EDM musician and *not yet realized* Pythonista.
+Hey there! I'm Jill Fiore, also known online as Lumaeris. Atomic Linux user, Russian translator, aspiring EDM musician and *not yet realized* Pythonista.
 
 My GitHub account mainly exists for contributing to other projects, reporting bugs or hosting my own repositories if there's a need to perform a huge task, such as build an operating system and distribute it as a container. Nowadays I tend to use [Codeberg](https://codeberg.org/Lumaeris) and I plan to host my future projects due to concerns related to Microsoft (and by extent GitHub), their collection of data for AI training without consent and continuous failures of GitHub Actions every now and then.
 
