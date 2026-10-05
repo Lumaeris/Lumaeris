@@ -19,4 +19,4 @@ Go to [my website](https://lumaeris.com/contact) to see an up to date informatio
 
 ---
 
-<sup>_Avatar: a cropped version of commissioned artwork by [@cenbytii](https://www.instagram.com/cenbytii/) of my OC used in my website, edited to add trans flag colored background by me_</sup>
+<sup>_Avatar: a cropped version of commissioned artwork by [@cenbytii](https://www.instagram.com/cenbytii/) of my OC used in my website_</sup>
